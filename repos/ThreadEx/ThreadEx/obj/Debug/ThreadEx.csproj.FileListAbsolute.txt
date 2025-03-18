@@ -1,0 +1,10 @@
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\bin\Debug\ThreadEx.exe.config
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\bin\Debug\ThreadEx.exe
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\bin\Debug\ThreadEx.pdb
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\obj\Debug\ThreadEx.csproj.AssemblyReference.cache
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\obj\Debug\ThreadEx.Form1.resources
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\obj\Debug\ThreadEx.Properties.Resources.resources
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\obj\Debug\ThreadEx.csproj.GenerateResource.cache
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\obj\Debug\ThreadEx.csproj.CoreCompileInputs.cache
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\obj\Debug\ThreadEx.exe
+C:\Users\2020676\source\repos\ThreadEx\ThreadEx\obj\Debug\ThreadEx.pdb

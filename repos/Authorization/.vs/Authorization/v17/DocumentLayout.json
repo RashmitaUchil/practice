@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2020676\\source\\repos\\Authorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|c:\\users\\2020676\\source\\repos\\authorization\\authorization\\models\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|solutionrelative:authorization\\models\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|c:\\users\\2020676\\source\\repos\\authorization\\authorization\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|solutionrelative:authorization\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|c:\\users\\2020676\\source\\repos\\authorization\\authorization\\migrations\\20250121065712_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|solutionrelative:authorization\\migrations\\20250121065712_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|c:\\users\\2020676\\source\\repos\\authorization\\authorization\\models\\dto\\addcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|solutionrelative:authorization\\models\\dto\\addcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|c:\\users\\2020676\\source\\repos\\authorization\\authorization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|solutionrelative:authorization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|c:\\users\\2020676\\source\\repos\\authorization\\authorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|solutionrelative:authorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|c:\\users\\2020676\\source\\repos\\authorization\\authorization\\data\\carsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|solutionrelative:authorization\\data\\carsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|c:\\users\\2020676\\source\\repos\\authorization\\authorization\\authorization.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{17D440A7-6BCA-42F7-BE08-071ED1984E7B}|Authorization\\Authorization.csproj|solutionrelative:authorization\\authorization.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:335392368:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1782749043:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1134461725:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Authorization\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Authorization\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:08:22.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Models\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Authorization\\Models\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Models\\Entities\\Car.cs",
+              "RelativeToolTip": "Authorization\\Models\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:10:53.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250121065712_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Migrations\\20250121065712_Initial.cs",
+              "RelativeDocumentMoniker": "Authorization\\Migrations\\20250121065712_Initial.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Migrations\\20250121065712_Initial.cs",
+              "RelativeToolTip": "Authorization\\Migrations\\20250121065712_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:57:51.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCarDto.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Models\\Dto\\AddCarDto.cs",
+              "RelativeDocumentMoniker": "Authorization\\Models\\Dto\\AddCarDto.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Models\\Dto\\AddCarDto.cs",
+              "RelativeToolTip": "Authorization\\Models\\Dto\\AddCarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:23:29.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\appsettings.json",
+              "RelativeDocumentMoniker": "Authorization\\appsettings.json",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\appsettings.json",
+              "RelativeToolTip": "Authorization\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T06:35:43.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Program.cs",
+              "RelativeDocumentMoniker": "Authorization\\Program.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Program.cs",
+              "RelativeToolTip": "Authorization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:35:21.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Data\\CarsDbContext.cs",
+              "RelativeDocumentMoniker": "Authorization\\Data\\CarsDbContext.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Data\\CarsDbContext.cs",
+              "RelativeToolTip": "Authorization\\Data\\CarsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:10:13.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authorization.http",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Authorization.http",
+              "RelativeDocumentMoniker": "Authorization\\Authorization.http",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authorization\\Authorization\\Authorization.http",
+              "RelativeToolTip": "Authorization\\Authorization.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-21T06:41:23.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

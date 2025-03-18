@@ -1,0 +1,14 @@
+C:\Users\2020676\source\repos\Threading\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2020676\source\repos\Threading\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\2020676\source\repos\Threading\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\2020676\source\repos\Threading\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\2020676\source\repos\Threading\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\2020676\source\repos\Threading\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\2020676\source\repos\Threading\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\2020676\source\repos\Threading\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\2020676\source\repos\Threading\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\2020676\source\repos\Threading\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\2020676\source\repos\Threading\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\2020676\source\repos\Threading\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\2020676\source\repos\Threading\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\2020676\source\repos\Threading\Factorial\obj\Debug\net8.0\ref\Factorial.dll

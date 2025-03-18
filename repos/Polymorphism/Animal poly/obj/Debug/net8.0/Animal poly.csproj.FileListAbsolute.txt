@@ -1,0 +1,14 @@
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\bin\Debug\net8.0\Animal poly.exe
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\bin\Debug\net8.0\Animal poly.deps.json
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\bin\Debug\net8.0\Animal poly.runtimeconfig.json
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\bin\Debug\net8.0\Animal poly.dll
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\bin\Debug\net8.0\Animal poly.pdb
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\obj\Debug\net8.0\Animal poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\obj\Debug\net8.0\Animal poly.AssemblyInfoInputs.cache
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\obj\Debug\net8.0\Animal poly.AssemblyInfo.cs
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\obj\Debug\net8.0\Animal poly.csproj.CoreCompileInputs.cache
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\obj\Debug\net8.0\Animal poly.dll
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\obj\Debug\net8.0\refint\Animal poly.dll
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\obj\Debug\net8.0\Animal poly.pdb
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\obj\Debug\net8.0\Animal poly.genruntimeconfig.cache
+C:\Users\2020676\source\repos\Polymorphism\Animal poly\obj\Debug\net8.0\ref\Animal poly.dll

@@ -1,0 +1,14 @@
+C:\React Project\Design Principles\AbstractFactory\bin\Debug\net9.0\AbstractFactory.exe
+C:\React Project\Design Principles\AbstractFactory\bin\Debug\net9.0\AbstractFactory.deps.json
+C:\React Project\Design Principles\AbstractFactory\bin\Debug\net9.0\AbstractFactory.runtimeconfig.json
+C:\React Project\Design Principles\AbstractFactory\bin\Debug\net9.0\AbstractFactory.dll
+C:\React Project\Design Principles\AbstractFactory\bin\Debug\net9.0\AbstractFactory.pdb
+C:\React Project\Design Principles\AbstractFactory\obj\Debug\net9.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\React Project\Design Principles\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\React Project\Design Principles\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfo.cs
+C:\React Project\Design Principles\AbstractFactory\obj\Debug\net9.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\React Project\Design Principles\AbstractFactory\obj\Debug\net9.0\AbstractFactory.dll
+C:\React Project\Design Principles\AbstractFactory\obj\Debug\net9.0\refint\AbstractFactory.dll
+C:\React Project\Design Principles\AbstractFactory\obj\Debug\net9.0\AbstractFactory.pdb
+C:\React Project\Design Principles\AbstractFactory\obj\Debug\net9.0\AbstractFactory.genruntimeconfig.cache
+C:\React Project\Design Principles\AbstractFactory\obj\Debug\net9.0\ref\AbstractFactory.dll

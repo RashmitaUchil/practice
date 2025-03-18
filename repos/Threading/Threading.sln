@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading\Threading.csproj", "{C43D8EAD-D427-4AC4-94C1-FB219A8C01B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{054F38B3-3D5A-49D2-99A4-5A938870A3CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evenodd", "evenodd\evenodd.csproj", "{3177F874-C882-4DA0-A450-410BEBF0EAC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43D8EAD-D427-4AC4-94C1-FB219A8C01B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43D8EAD-D427-4AC4-94C1-FB219A8C01B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43D8EAD-D427-4AC4-94C1-FB219A8C01B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43D8EAD-D427-4AC4-94C1-FB219A8C01B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054F38B3-3D5A-49D2-99A4-5A938870A3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054F38B3-3D5A-49D2-99A4-5A938870A3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054F38B3-3D5A-49D2-99A4-5A938870A3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054F38B3-3D5A-49D2-99A4-5A938870A3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3177F874-C882-4DA0-A450-410BEBF0EAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3177F874-C882-4DA0-A450-410BEBF0EAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3177F874-C882-4DA0-A450-410BEBF0EAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3177F874-C882-4DA0-A450-410BEBF0EAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

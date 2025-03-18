@@ -1,0 +1,6 @@
+@RankingApp.Server_HostAddress = http://localhost:5000
+
+GET {{RankingApp.Server_HostAddress}}/item/1
+Accept: application/json
+
+###

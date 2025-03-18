@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2020676\\source\\repos\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF696D-57B7-465C-8FB2-D97862FE0DC1}|Authentication\\Authentication.csproj|c:\\users\\2020676\\source\\repos\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FF696D-57B7-465C-8FB2-D97862FE0DC1}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF696D-57B7-465C-8FB2-D97862FE0DC1}|Authentication\\Authentication.csproj|c:\\users\\2020676\\source\\repos\\authentication\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62FF696D-57B7-465C-8FB2-D97862FE0DC1}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF696D-57B7-465C-8FB2-D97862FE0DC1}|Authentication\\Authentication.csproj|c:\\users\\2020676\\source\\repos\\authentication\\authentication\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FF696D-57B7-465C-8FB2-D97862FE0DC1}|Authentication\\Authentication.csproj|solutionrelative:authentication\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:335392368:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1782749043:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1134461725:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authentication\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authentication\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T11:06:56.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authentication\\Authentication\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authentication\\Authentication\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Authentication\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:59:31.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Authentication\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Authentication\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:54:15.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

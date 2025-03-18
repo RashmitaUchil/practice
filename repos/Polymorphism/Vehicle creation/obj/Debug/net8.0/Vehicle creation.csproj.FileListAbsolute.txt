@@ -1,0 +1,14 @@
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\obj\Debug\net8.0\Vehicle creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\obj\Debug\net8.0\Vehicle creation.AssemblyInfoInputs.cache
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\obj\Debug\net8.0\Vehicle creation.AssemblyInfo.cs
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\obj\Debug\net8.0\Vehicle creation.csproj.CoreCompileInputs.cache
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\bin\Debug\net8.0\Vehicle creation.exe
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\bin\Debug\net8.0\Vehicle creation.deps.json
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\bin\Debug\net8.0\Vehicle creation.runtimeconfig.json
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\bin\Debug\net8.0\Vehicle creation.dll
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\bin\Debug\net8.0\Vehicle creation.pdb
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\obj\Debug\net8.0\Vehicle creation.dll
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\obj\Debug\net8.0\refint\Vehicle creation.dll
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\obj\Debug\net8.0\Vehicle creation.pdb
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\obj\Debug\net8.0\Vehicle creation.genruntimeconfig.cache
+C:\Users\2020676\source\repos\Polymorphism\Vehicle creation\obj\Debug\net8.0\ref\Vehicle creation.dll

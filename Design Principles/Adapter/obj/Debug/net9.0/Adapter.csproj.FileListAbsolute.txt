@@ -1,0 +1,17 @@
+C:\ASP.NET\Design Principles\Adapter\bin\Debug\net9.0\Adapter.exe
+C:\ASP.NET\Design Principles\Adapter\bin\Debug\net9.0\Adapter.deps.json
+C:\ASP.NET\Design Principles\Adapter\bin\Debug\net9.0\Adapter.runtimeconfig.json
+C:\ASP.NET\Design Principles\Adapter\bin\Debug\net9.0\Adapter.dll
+C:\ASP.NET\Design Principles\Adapter\bin\Debug\net9.0\Adapter.pdb
+C:\ASP.NET\Design Principles\Adapter\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\Adapter.csproj.AssemblyReference.cache
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\Adapter.AssemblyInfoInputs.cache
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\Adapter.AssemblyInfo.cs
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\Adapter.csproj.CoreCompileInputs.cache
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\Adapter.csproj.Up2Date
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\Adapter.dll
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\refint\Adapter.dll
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\Adapter.pdb
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\Adapter.genruntimeconfig.cache
+C:\ASP.NET\Design Principles\Adapter\obj\Debug\net9.0\ref\Adapter.dll

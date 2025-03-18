@@ -1,0 +1,14 @@
+C:\Users\2020676\source\repos\Polymorphism\Employee2\bin\Debug\net8.0\Employee2.exe
+C:\Users\2020676\source\repos\Polymorphism\Employee2\bin\Debug\net8.0\Employee2.deps.json
+C:\Users\2020676\source\repos\Polymorphism\Employee2\bin\Debug\net8.0\Employee2.runtimeconfig.json
+C:\Users\2020676\source\repos\Polymorphism\Employee2\bin\Debug\net8.0\Employee2.dll
+C:\Users\2020676\source\repos\Polymorphism\Employee2\bin\Debug\net8.0\Employee2.pdb
+C:\Users\2020676\source\repos\Polymorphism\Employee2\obj\Debug\net8.0\Employee2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2020676\source\repos\Polymorphism\Employee2\obj\Debug\net8.0\Employee2.AssemblyInfoInputs.cache
+C:\Users\2020676\source\repos\Polymorphism\Employee2\obj\Debug\net8.0\Employee2.AssemblyInfo.cs
+C:\Users\2020676\source\repos\Polymorphism\Employee2\obj\Debug\net8.0\Employee2.csproj.CoreCompileInputs.cache
+C:\Users\2020676\source\repos\Polymorphism\Employee2\obj\Debug\net8.0\Employee2.dll
+C:\Users\2020676\source\repos\Polymorphism\Employee2\obj\Debug\net8.0\refint\Employee2.dll
+C:\Users\2020676\source\repos\Polymorphism\Employee2\obj\Debug\net8.0\Employee2.pdb
+C:\Users\2020676\source\repos\Polymorphism\Employee2\obj\Debug\net8.0\Employee2.genruntimeconfig.cache
+C:\Users\2020676\source\repos\Polymorphism\Employee2\obj\Debug\net8.0\ref\Employee2.dll

@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "QKGulw2ji8mx/eHl18kEOzqe+JqlYEuEcBcg3XOju3c=",
+  "Source": "Rank.Server",
+  "BasePath": "_content/Rank.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\rank.client.esproj",
+      "Version": 2,
+      "Source": "rank.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

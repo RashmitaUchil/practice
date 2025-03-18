@@ -1,0 +1,14 @@
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\bin\Debug\net8.0\Vehicle poly.exe
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\bin\Debug\net8.0\Vehicle poly.deps.json
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\bin\Debug\net8.0\Vehicle poly.runtimeconfig.json
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\bin\Debug\net8.0\Vehicle poly.dll
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\bin\Debug\net8.0\Vehicle poly.pdb
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\obj\Debug\net8.0\Vehicle poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\obj\Debug\net8.0\Vehicle poly.AssemblyInfoInputs.cache
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\obj\Debug\net8.0\Vehicle poly.AssemblyInfo.cs
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\obj\Debug\net8.0\Vehicle poly.csproj.CoreCompileInputs.cache
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\obj\Debug\net8.0\Vehicle poly.dll
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\obj\Debug\net8.0\refint\Vehicle poly.dll
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\obj\Debug\net8.0\Vehicle poly.pdb
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\obj\Debug\net8.0\Vehicle poly.genruntimeconfig.cache
+C:\Users\2020676\source\repos\Polymorphism\Vehicle poly\obj\Debug\net8.0\ref\Vehicle poly.dll

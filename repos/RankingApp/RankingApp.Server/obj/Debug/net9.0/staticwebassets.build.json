@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "ixJNuYtQikV/toko3XzsNHNeadVWl+fqcZL3sQehro8=",
+  "Source": "RankingApp.Server",
+  "BasePath": "_content/RankingApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\rankingapp.client.esproj",
+      "Version": 2,
+      "Source": "rankingapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

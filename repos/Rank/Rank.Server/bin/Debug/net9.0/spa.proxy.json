@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:52792",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\2020676\\source\\repos\\Rank\\Rank.Server\\..\\rank.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

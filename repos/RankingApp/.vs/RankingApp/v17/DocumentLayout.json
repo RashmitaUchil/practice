@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2020676\\source\\repos\\RankingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.server\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|solutionrelative:rankingapp.server\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.server\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|solutionrelative:rankingapp.server\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\src\\components\\rankitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\components\\rankitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\rankingapp.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\rankingapp.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0ED02247-5EB2-4367-A05F-7FC8C6F9B8C0}|rankingapp.client\\rankingapp.client.esproj|solutionrelative:rankingapp.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|solutionrelative:rankingapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|solutionrelative:rankingapp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.server\\rankingapp.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|solutionrelative:rankingapp.server\\rankingapp.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|c:\\users\\2020676\\source\\repos\\rankingapp\\rankingapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EDA225-44E7-46B1-B90D-02D6A7BE370E}|RankingApp.Server\\RankingApp.Server.csproj|solutionrelative:rankingapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:335392368:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1782749043:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1134461725:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\vite.config.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\vite.config.js",
+              "RelativeToolTip": "rankingapp.client\\vite.config.js",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwDwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T09:22:59.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "RankingApp.Server\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "RankingApp.Server\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:32:29.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RankItem.jsx",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\src\\Components\\RankItem.jsx",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\Components\\RankItem.jsx",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\src\\Components\\RankItem.jsx",
+              "RelativeToolTip": "rankingapp.client\\src\\Components\\RankItem.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-28T07:41:13.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "RankingApp.Server\\Models\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Models\\ItemModel.cs",
+              "RelativeToolTip": "RankingApp.Server\\Models\\ItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:22:31.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\README.md",
+              "RelativeDocumentMoniker": "rankingapp.client\\README.md",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\README.md",
+              "RelativeToolTip": "rankingapp.client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-28T09:47:23.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\package.json",
+              "RelativeDocumentMoniker": "rankingapp.client\\package.json",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\package.json",
+              "RelativeToolTip": "rankingapp.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T09:42:35.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "rankingapp.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\CHANGELOG.md",
+              "RelativeToolTip": "rankingapp.client\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-28T09:47:18.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "rankingapp.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\eslint.config.js",
+              "RelativeToolTip": "rankingapp.client\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T09:47:08.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\.gitignore",
+              "RelativeDocumentMoniker": "rankingapp.client\\.gitignore",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\.gitignore",
+              "RelativeToolTip": "rankingapp.client\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-28T09:47:16.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "rankingapp.client.esproj",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\rankingapp.client.esproj",
+              "RelativeDocumentMoniker": "rankingapp.client\\rankingapp.client.esproj",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\rankingapp.client.esproj",
+              "RelativeToolTip": "rankingapp.client\\rankingapp.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T09:42:42.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "rankingapp.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\.vscode\\launch.json",
+              "RelativeToolTip": "rankingapp.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T09:41:40.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "rankingapp.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\rankingapp.client\\src\\App.jsx",
+              "RelativeToolTip": "rankingapp.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-28T09:27:46.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RankingApp.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RankingApp.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:24:36.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RankingApp.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RankingApp.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T09:20:56.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RankingApp.Server",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\RankingApp.Server.csproj",
+              "RelativeDocumentMoniker": "RankingApp.Server\\RankingApp.Server.csproj",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\RankingApp.Server.csproj",
+              "RelativeToolTip": "RankingApp.Server\\RankingApp.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T09:11:32.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "RankingApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\RankingApp\\RankingApp.Server\\Program.cs",
+              "RelativeToolTip": "RankingApp.Server\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:20:18.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

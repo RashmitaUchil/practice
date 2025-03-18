@@ -1,0 +1,14 @@
+C:\React Project\Design Principles\FactoryMethod\bin\Debug\net9.0\FactoryMethod.exe
+C:\React Project\Design Principles\FactoryMethod\bin\Debug\net9.0\FactoryMethod.deps.json
+C:\React Project\Design Principles\FactoryMethod\bin\Debug\net9.0\FactoryMethod.runtimeconfig.json
+C:\React Project\Design Principles\FactoryMethod\bin\Debug\net9.0\FactoryMethod.dll
+C:\React Project\Design Principles\FactoryMethod\bin\Debug\net9.0\FactoryMethod.pdb
+C:\React Project\Design Principles\FactoryMethod\obj\Debug\net9.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\React Project\Design Principles\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\React Project\Design Principles\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfo.cs
+C:\React Project\Design Principles\FactoryMethod\obj\Debug\net9.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\React Project\Design Principles\FactoryMethod\obj\Debug\net9.0\FactoryMethod.dll
+C:\React Project\Design Principles\FactoryMethod\obj\Debug\net9.0\refint\FactoryMethod.dll
+C:\React Project\Design Principles\FactoryMethod\obj\Debug\net9.0\FactoryMethod.pdb
+C:\React Project\Design Principles\FactoryMethod\obj\Debug\net9.0\FactoryMethod.genruntimeconfig.cache
+C:\React Project\Design Principles\FactoryMethod\obj\Debug\net9.0\ref\FactoryMethod.dll

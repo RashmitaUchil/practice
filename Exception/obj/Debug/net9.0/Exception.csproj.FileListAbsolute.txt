@@ -1,0 +1,14 @@
+C:\React Project\Exception\obj\Debug\net9.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\React Project\Exception\obj\Debug\net9.0\Exception.AssemblyInfoInputs.cache
+C:\React Project\Exception\obj\Debug\net9.0\Exception.AssemblyInfo.cs
+C:\React Project\Exception\obj\Debug\net9.0\Exception.csproj.CoreCompileInputs.cache
+C:\React Project\Exception\bin\Debug\net9.0\Exception.exe
+C:\React Project\Exception\bin\Debug\net9.0\Exception.deps.json
+C:\React Project\Exception\bin\Debug\net9.0\Exception.runtimeconfig.json
+C:\React Project\Exception\bin\Debug\net9.0\Exception.dll
+C:\React Project\Exception\bin\Debug\net9.0\Exception.pdb
+C:\React Project\Exception\obj\Debug\net9.0\Exception.dll
+C:\React Project\Exception\obj\Debug\net9.0\refint\Exception.dll
+C:\React Project\Exception\obj\Debug\net9.0\Exception.pdb
+C:\React Project\Exception\obj\Debug\net9.0\Exception.genruntimeconfig.cache
+C:\React Project\Exception\obj\Debug\net9.0\ref\Exception.dll

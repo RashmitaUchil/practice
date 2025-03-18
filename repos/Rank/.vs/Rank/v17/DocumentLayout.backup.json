@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2020676\\source\\repos\\Rank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2940129-6369-4909-8C4B-A19F4BEC963C}|Rank.Server\\Rank.Server.csproj|c:\\users\\2020676\\source\\repos\\rank\\rank.server\\controllers\\rankitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2940129-6369-4909-8C4B-A19F4BEC963C}|Rank.Server\\Rank.Server.csproj|solutionrelative:rank.server\\controllers\\rankitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2940129-6369-4909-8C4B-A19F4BEC963C}|Rank.Server\\Rank.Server.csproj|c:\\users\\2020676\\source\\repos\\rank\\rank.server\\model\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2940129-6369-4909-8C4B-A19F4BEC963C}|Rank.Server\\Rank.Server.csproj|solutionrelative:rank.server\\model\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2940129-6369-4909-8C4B-A19F4BEC963C}|Rank.Server\\Rank.Server.csproj|c:\\users\\2020676\\source\\repos\\rank\\rank.server\\rank.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2940129-6369-4909-8C4B-A19F4BEC963C}|Rank.Server\\Rank.Server.csproj|solutionrelative:rank.server\\rank.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|c:\\users\\2020676\\source\\repos\\rank\\rank.client\\src\\components\\rankitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|solutionrelative:rank.client\\src\\components\\rankitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|c:\\users\\2020676\\source\\repos\\rank\\rank.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|solutionrelative:rank.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|c:\\users\\2020676\\source\\repos\\rank\\rank.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|solutionrelative:rank.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|c:\\users\\2020676\\source\\repos\\rank\\rank.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|solutionrelative:rank.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|c:\\users\\2020676\\source\\repos\\rank\\rank.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|solutionrelative:rank.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|c:\\users\\2020676\\source\\repos\\rank\\rank.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|solutionrelative:rank.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|c:\\users\\2020676\\source\\repos\\rank\\rank.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70A72E41-9D3D-4B82-A394-80028EA8C53C}|rank.client\\rank.client.esproj|solutionrelative:rank.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:335392368:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1782749043:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1134461725:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\vite.config.js",
+              "RelativeDocumentMoniker": "rank.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\vite.config.js",
+              "RelativeToolTip": "rank.client\\vite.config.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T10:37:09.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rank.Server.http",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\Rank.Server\\Rank.Server.http",
+              "RelativeDocumentMoniker": "Rank.Server\\Rank.Server.http",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\Rank.Server\\Rank.Server.http",
+              "RelativeToolTip": "Rank.Server\\Rank.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-28T10:15:21.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RankItemController.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\Rank.Server\\Controllers\\RankItemController.cs",
+              "RelativeDocumentMoniker": "Rank.Server\\Controllers\\RankItemController.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\Rank.Server\\Controllers\\RankItemController.cs",
+              "RelativeToolTip": "Rank.Server\\Controllers\\RankItemController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:13:26.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RankItem.jsx",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\src\\Components\\RankItem.jsx",
+              "RelativeDocumentMoniker": "rank.client\\src\\Components\\RankItem.jsx",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\src\\Components\\RankItem.jsx",
+              "RelativeToolTip": "rank.client\\src\\Components\\RankItem.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-28T10:10:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "rank.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\src\\App.jsx",
+              "RelativeToolTip": "rank.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-28T10:11:41.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "rank.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\src\\main.jsx",
+              "RelativeToolTip": "rank.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-28T10:20:37.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\src\\index.css",
+              "RelativeDocumentMoniker": "rank.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\src\\index.css",
+              "RelativeToolTip": "rank.client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-28T10:20:40.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "rank.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\.vscode\\launch.json",
+              "RelativeToolTip": "rank.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T10:20:27.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\index.html",
+              "RelativeDocumentMoniker": "rank.client\\index.html",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\rank.client\\index.html",
+              "RelativeToolTip": "rank.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-28T10:18:14.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\2020676\\source\\repos\\Rank\\Rank.Server\\Model\\ItemModel.cs",
+              "RelativeDocumentMoniker": "Rank.Server\\Model\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\2020676\\source\\repos\\Rank\\Rank.Server\\Model\\ItemModel.cs",
+              "RelativeToolTip": "Rank.Server\\Model\\ItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:14:06.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

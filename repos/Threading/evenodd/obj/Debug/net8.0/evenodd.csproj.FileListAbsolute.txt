@@ -1,0 +1,14 @@
+C:\Users\2020676\source\repos\Threading\evenodd\bin\Debug\net8.0\evenodd.exe
+C:\Users\2020676\source\repos\Threading\evenodd\bin\Debug\net8.0\evenodd.deps.json
+C:\Users\2020676\source\repos\Threading\evenodd\bin\Debug\net8.0\evenodd.runtimeconfig.json
+C:\Users\2020676\source\repos\Threading\evenodd\bin\Debug\net8.0\evenodd.dll
+C:\Users\2020676\source\repos\Threading\evenodd\bin\Debug\net8.0\evenodd.pdb
+C:\Users\2020676\source\repos\Threading\evenodd\obj\Debug\net8.0\evenodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2020676\source\repos\Threading\evenodd\obj\Debug\net8.0\evenodd.AssemblyInfoInputs.cache
+C:\Users\2020676\source\repos\Threading\evenodd\obj\Debug\net8.0\evenodd.AssemblyInfo.cs
+C:\Users\2020676\source\repos\Threading\evenodd\obj\Debug\net8.0\evenodd.csproj.CoreCompileInputs.cache
+C:\Users\2020676\source\repos\Threading\evenodd\obj\Debug\net8.0\evenodd.dll
+C:\Users\2020676\source\repos\Threading\evenodd\obj\Debug\net8.0\refint\evenodd.dll
+C:\Users\2020676\source\repos\Threading\evenodd\obj\Debug\net8.0\evenodd.pdb
+C:\Users\2020676\source\repos\Threading\evenodd\obj\Debug\net8.0\evenodd.genruntimeconfig.cache
+C:\Users\2020676\source\repos\Threading\evenodd\obj\Debug\net8.0\ref\evenodd.dll

@@ -1,0 +1,28 @@
+﻿GET http://localhost:5220/student
+
+###
+POST http://localhost:5220/student
+Content-Type: application/json
+
+{
+    "name":"Mrunmayi",
+    "deptId":"3",
+    "city":"Borivali"
+}
+
+###
+PUT http://localhost:5220/student/3
+Content-Type: application/json
+
+{
+    "name":"zyx",
+    "deptId":"4",
+    "city":"Mumbai"
+}
+
+###
+DELETE http://localhost:5220/student/3
+
+
+###
+GET http://localhost:5220

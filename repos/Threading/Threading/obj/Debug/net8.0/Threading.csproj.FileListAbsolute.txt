@@ -1,0 +1,14 @@
+C:\Users\2020676\source\repos\Threading\Threading\bin\Debug\net8.0\Threading.exe
+C:\Users\2020676\source\repos\Threading\Threading\bin\Debug\net8.0\Threading.deps.json
+C:\Users\2020676\source\repos\Threading\Threading\bin\Debug\net8.0\Threading.runtimeconfig.json
+C:\Users\2020676\source\repos\Threading\Threading\bin\Debug\net8.0\Threading.dll
+C:\Users\2020676\source\repos\Threading\Threading\bin\Debug\net8.0\Threading.pdb
+C:\Users\2020676\source\repos\Threading\Threading\obj\Debug\net8.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2020676\source\repos\Threading\Threading\obj\Debug\net8.0\Threading.AssemblyInfoInputs.cache
+C:\Users\2020676\source\repos\Threading\Threading\obj\Debug\net8.0\Threading.AssemblyInfo.cs
+C:\Users\2020676\source\repos\Threading\Threading\obj\Debug\net8.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\2020676\source\repos\Threading\Threading\obj\Debug\net8.0\Threading.dll
+C:\Users\2020676\source\repos\Threading\Threading\obj\Debug\net8.0\refint\Threading.dll
+C:\Users\2020676\source\repos\Threading\Threading\obj\Debug\net8.0\Threading.pdb
+C:\Users\2020676\source\repos\Threading\Threading\obj\Debug\net8.0\Threading.genruntimeconfig.cache
+C:\Users\2020676\source\repos\Threading\Threading\obj\Debug\net8.0\ref\Threading.dll
